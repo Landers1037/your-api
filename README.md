@@ -27,6 +27,15 @@
 
 你可以下载本项目的源码进行二次开发
 
+```bash
+cd your-api
+npm install
+//start
+npm run electron:serve
+```
+
+
+
 ## 试用
 
  [v0.0.1](https://github.com/Landers1037/your-api/releases/tag/0.0.1)
